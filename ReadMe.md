@@ -18,7 +18,8 @@ chmod 777 deploy.sh
 http://192.168.0.113:8384/
 
 5. 打开网址后，做如下处理
-    1. [设置用户名，密码及删除默认文件夹](http://pmr.forke.cn:16666/api/alien/download/97e74dd8-f1f2-4f3a-5c14-3063161c840a/s1.png)
+    1. ![设置用户名，密码及删除默认文件夹](http://pmr.forke.cn:16666/api/alien/download/97e74dd8-f1f2-4f3a-5c14-3063161c840a/s1.png)
+    2. ![设置用户名及密码](http://pmr.forke.cn:16666/api/alien/download/c96ea872-b1e0-49a4-6696-2f1301543ce7/s2.png)
 
 
 
